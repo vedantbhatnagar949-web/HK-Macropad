@@ -40,3 +40,9 @@ THIS IS THE FIRST IDEATION OF THE MACROPAD CASE IT was created by me for another
 ![Yes  this is the zine](https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/c8e1aee1c74e5d40e5040ba5f4e5b05cfea3fcfa/Zine/zine%20(1).png)
 
 THIS IS the first Prototype of my made using a template in canva but tbh i deleted every element of the template instead of the heading
+
+# BOM 
+--
+THis is the link to BIll of materials
+https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/07bd030080ccaf9b5b7fdfb191e139eaa543e7bd/BILL%20OF%20MATERIALS/BOM_PCB3_Schematic.csv
+
