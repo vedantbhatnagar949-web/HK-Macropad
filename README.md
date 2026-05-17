@@ -3,12 +3,14 @@
 # What Even Is This 
 -------------------
 this is an hollow knight themed macropad which solves the issue of input delay
+----------------------
 
 *Here's The PCB*
 
 ![PCB](https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/53e428472a375c01e4f10104d9640d47de6456ec/ALL%20Images/PCB.png)
 
 this is the PCB for the macropad which kinda works for now i will add new features in future
+--------------------
 
 *Here's The Schematic*
 
