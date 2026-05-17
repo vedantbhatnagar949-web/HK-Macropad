@@ -6,7 +6,7 @@ this is an hollow knight themed macropad which solves the issue of input delay
 --------------------
 _CASE 3d MODEL_
 
-![]()
+![CASE 3d model](https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/74f7865fa58121a33faf042109ace1066d9958a9/ALL%20Images/CASE%20version%202.png)
 This is the 3D model of the Final case i made with Keycaps Also made by ME by Updating @3dnerdcave's model of keys i updated em and added arrow and for the case i used the HOllow knight text and Logo from Team Cherry 
 ----------------------
 
