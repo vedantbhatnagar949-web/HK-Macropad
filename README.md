@@ -3,6 +3,11 @@
 # What Even Is This 
 -------------------
 this is an hollow knight themed macropad which solves the issue of input delay
+--------------------
+_CASE 3d MODEL_
+
+![]()
+This is the 3D model of the Final case i made with Keycaps Also made by ME by Updating @3dnerdcave's model of keys i updated em and added arrow and for the case i used the HOllow knight text and Logo from Team Cherry 
 ----------------------
 
 *Here's The PCB*
@@ -31,5 +36,5 @@ It Exists to Give justice to every Hollow knight player who's suffering the pant
 THIS IS THE FIRST IDEATION OF THE MACROPAD CASE IT was created by me for another project so I used it here 
 
 # My Zine 
-![Yes  this is the zine]()
+![Yes  this is the zine](https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/c8e1aee1c74e5d40e5040ba5f4e5b05cfea3fcfa/Zine/zine%20(1).png)
 THIS IS the first Prototype of my made using a template in canva but tbh i deleted every element of the template instead of the heading
