@@ -12,7 +12,7 @@ this is the PCB for the macropad which kinda works for now i will add new featur
 
 *Here's The Schematic*
 
-![]()
+![SCHWMATIC](https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/bcce803ab9f7d7330c161235577f4ba835e2a648/ALL%20Images/Schematic.png)
 
 this is the Schematic for the Macropad I was new to this SO i created this while learning now im a little bit fluent and can create multiple designs
 # What It Does
