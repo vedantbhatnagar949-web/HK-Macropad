@@ -26,7 +26,7 @@ this project solves the issue that troubles every hollow knight player in the en
 It Exists to Give justice to every Hollow knight player who's suffering the pantheons and the boss battles again and again 
 
 # The FIRST iteration of the CASE(3d model)
-![This is the v1 of the CASE]()
+![This is the v1 of the CASE](https://github.com/vedantbhatnagar949-web/HK-Macropad/blob/ea48ff6d081d40cb67fdad00c03e8be1653b5832/ALL%20Images/CASE%20version%201.png)
 
 THIS IS THE FIRST IDEATION OF THE MACROPAD CASE IT was created by me for another project so I used it here 
 
